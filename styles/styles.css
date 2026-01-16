@@ -22,13 +22,13 @@
         max-width: 840px;
         Border: 1px solid steelblue;
         padding: 2px;
-        box-shadow: 0 0 30px gray;
+        box-shadow: 0 0 10px gray;
     }
 
     main image {
         width: 150px;
         height: auto;
-        border: 10px solids steelblue;
+        border: 10px steelblue;
         padding: 2px;
         box-shadow: 0, 0, 10px, gray;
     }
