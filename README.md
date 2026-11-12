@@ -35,19 +35,16 @@ Currently, I'm strengthening my skills in software engineering, application arch
 
 ## 🚀 Featured Projects
 
-### 1. Gladness Psicólogos
-A digital platform concept for psychological services, focused on patient management, appointment scheduling, and administrative operations.
 
-**Technologies:** C#, .NET, ASP.NET Core, Blazor, MudBlazor, SQLite.
 
-### 2. KapiShop
+### 1. KapiShop
 A full-stack e-commerce project designed to provide customers with a digital shopping experience.
 
 **Live Demo:** https://kapishop.onrender.com
 
 **Technologies:** Web development, database integration, and modern frontend/backend technologies.
 
-### 3. Poul7 Marketing Intelligence
+### 2. Poul7 Marketing Intelligence
 A digital marketing technology concept focused on campaign management, marketing automation, and business analytics.
 
 **Technologies:** C#, .NET, MVC, SQLite, Entity Framework Core.
